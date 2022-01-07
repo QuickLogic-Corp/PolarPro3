@@ -4844,7 +4844,7 @@
                         <SBox29 Offset="29" MTB_PortName="IZ"/>
                         <SBox30 Offset="30" MTB_PortName="IZ"/>
                         <SBox31 Offset="31" MTB_PortName="IZ"/>
-                    </Index
+                    </Index>
                     <Index Number="28" SwitchNum="-1" SwitchOutputNum="-1" Mapped_Interface_Name="A2F_HW_t_0">
                         <SBox0 Offset="0" MTB_PortName="PUSH_FLAG_0[3]"/>
                         <SBox1 Offset="1" MTB_PortName="Almost_Full_0"/>
